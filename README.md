@@ -5,7 +5,6 @@
 ### Autor: **Manuel Amado**
 
 ### Fecha: **18/12/2023**
-
 ***
 ## Introducción
 
@@ -25,7 +24,6 @@ Reconocer una hibridación de medios implica una atención cuidadosa a la conver
 > "Se agrupan técnicas y formatos de representación de medios físicos y electrónicos anteriores, y las nuevas técnicas de manipulación de la información y formatos de datos exclusivos del ordenador para formar nuevas combinaciones". (Manovich, 2013)
 
 La hibridación, en última instancia, redefine la manera en que interactuamos y nos relacionamos con el software, llevando consigo una nueva dimensión de versatilidad y enriquecimiento en la experiencia digital.
-
 ***
 ## Telegram
 ![Telegram](https://miracomosehace.com/wp-content/uploads/mch/id_988.jpg)
@@ -41,6 +39,8 @@ Estas son algunas de las muchas funciones que proporciona a los usuarios, destac
 
 Telegram, aunque es una aplicación para conversar con amigos y conocidos también ofrece la posibilidad de utilizar bots, que son aplicaciones automatizadas de terceros integradas directamente en la aplicación de mensajería. Estos bots no requieren instalación adicional y se pueden utilizar simplemente buscando al usuario correspondiente (el bot) y siguiendo las instrucciones proporcionadas en la conversación de la aplicación. Mediante comandos específicos, que varían según el bot, los usuarios pueden acceder a diversas funciones.
 
+![Telegram Bot Features](http://core.telegram.org/file/464001858/11318/ahAJjwERIX8.164875/ce1372cbf73e3ea94e)
+
 Los bots de Telegram existen desde hace más de cinco años y ofrecen dos modalidades: iniciar una conversación directa con ellos o agregarlos a un grupo como un miembro más. Esta última opción es útil, por ejemplo, para bots de juegos o para realizar votaciones en grupo. Aunque se presentan como chats normales en la lista de conversaciones, estos son en realidad conversaciones automatizadas con propósitos específicos.
 
 Estos bots realizan una amplia variedad de funciones, como buscar imágenes en internet, descargar audio de vídeos, transcribir mensajes de voz, jugar a juegos como el trivial, establecer recordatorios, buscar información en Wikipedia, realizar encuestas o proporcionar el pronóstico del tiempo para los próximos siete días en una ciudad específica. Son gratuitos, no requieren instalación adicional y se pueden utilizar en cualquier dispositivo donde tengas Telegram, ya sea en el móvil o en la versión web en tu ordenador. Además, puedes activar, desactivar o ignorar tantos bots como desees según tus necesidades y preferencias.
@@ -54,15 +54,34 @@ La versatilidad de los bots, que van desde juegos hasta búsquedas de informaci�
 ## Obsidian
 ![Obsidian](https://obsidian.md/images/banner.png)
 
+Aplicación lanzada en marzo de 2020. Desarrollada por Obsidian Dynamics y fundada por Shida Li, es pocas palabras es un programa de gestión de notas, pero realmente es una gran herramienta que ayuda a los usuarios a organizar, conectar y desarrollar sus ideas de manera más eficiente.
 
+Obsidian emerge como una destacada aplicación de gestión de información personal y herramienta de productividad, destacando por su singular énfasis en la creación y organización de notas. Estas adoptan un formato de "texto plano" para almacenar información. A diferencia de otros sistemas que utilizan formatos propietarios o bases de datos cerradas, Obsidian almacena datos en archivos de texto simple, generalmente en formato Markdown. Este enfoque tiene varias ventajas significativas. Primero, los archivos de texto plano son legibles por cualquier editor de texto, lo que garantiza la accesibilidad a largo plazo y la portabilidad de la información. Segundo, al no depender de un formato cerrado, los usuarios tienen un control total sobre sus datos, evitando posibles bloqueos o incompatibilidades en el futuro.
 
+Obsidian se distingue por varias características clave que lo posicionan como una plataforma de notas innovadora y versátil. Una de sus funcionalidades destacadas es el sistema de enlaces bidireccionales, que facilita la navegación intuitiva y establece conexiones contextuales entre las notas. La sintaxis de doble corchete simplifica la creación de una red interconectada de ideas y conceptos, promoviendo así la comprensión holística y estimulando la exploración activa de la 
+información.
+
+![Vista de grafo](https://tecnoguia.net/wp-content/webp-express/webp-images/uploads/2023/12/Todo-sobre-Obsidian-La-herramienta-definitiva-para-la-gestion-de-notas-2048x1229.jpg.webp)
+
+La función de vista de grafo en Obsidian constituye otra herramienta distintiva. Esta característica proporciona una representación visual de las relaciones entre las notas, ofreciendo a los usuarios una perspectiva única de la estructura de la información. Al identificar patrones y áreas de enfoque, la vista de grafo contribuye a una comprensión más profunda y visualmente orientada de la interconexión de pensamientos, fortaleciendo la capacidad de organizar y gestionar ideas de manera eficiente.
+
+La posibilidad de realizar ediciones y previsualizaciones en tiempo real de las notas en formato Markdown es otra de sus ventajas significativas. Esta funcionalidad permite a los usuarios visualizar el aspecto final del contenido mientras lo están redactando, facilitando la creación de documentos bien formateados sin interrupciones en el flujo de trabajo. La integración de esta característica refuerza la eficacia de esta aplicación como una herramienta para la expresión y documentación fluidas.
+
+Su función de búsqueda se destaca por su robustez y eficiencia. Los usuarios pueden realizar búsquedas rápidas y filtrar resultados según diversos criterios. La combinación de una búsqueda potente y enlaces bidireccionales no solo simplifica el acceso a la información, sino que también agiliza el proceso de recuperación de datos, brindando a los usuarios una experiencia de usuario fluida y precisa.
+
+La hibridación en Obsidian se manifiesta en la integración de formatos mediáticos previamente separados, como el texto y las representaciones visuales. La combinación de funciones, como la toma de notas, la organización de información y la visualización de relaciones, refleja la amalgama de características que no suelen encontrarse juntas en aplicaciones convencionales. Además, la personalización y flexibilidad en la interfaz de usuario de Obsidian cumplen con el principio de la hibridación al adaptarse a las preferencias individuales de los usuarios, proporcionando así un entorno flexible que se ajusta a las necesidades de cada usuario. En conjunto, Obsidian se presenta como un ejemplo contemporáneo de hibridación de medios, explorando nuevas formas de interacción y organización de la información en la era digital.
+***
+## Conclusiónes
+
+Telegram y Obsidian representan ejemplos destacados de hibridación de medios. Telegram combina mensajería instantánea con funciones sociales y multimedia, fusionando elementos de comunicación digital de manera integral. Por otro lado, Obsidian adopta el texto plano mientras incorpora visualizaciones gráficas y enlaces bidireccionales, creando una plataforma de notas que va más allá de las convenciones tradicionales. La elección de estas dos aplicaciones refleja la búsqueda de soluciones versátiles y flexibles, que aprovechan la hibridación para ofrecer experiencias ricas y adaptadas a mis necesidades específicas en comunicación y organización de información.
 ***
 ## Bibliografía y Webgrafía
 
-- Manovich, L. (2013). El software toma el mando (Primera edición digital: diciembre 2013). Editorial UOC.
+- Manovich, L. (2013). *"El software toma el mando"* (Primera edición digital: diciembre 2013). Editorial UOC.
 - Otero E. (2023) *"Obsidian: qué es y cómo te ayuda esta plataforma a gestionar tus notas"* (consulta: 13/12/2023) Disponible en: https://www.profesionalreview.com/2023/10/15/obsidian-gestionar-notas/
-- Fernández Y. (2020) *"Bots de Telegram: qué son, cómo funcionan y 17 recomendados para empezar"* (consulta: 14/12/2023) Disponible en: https://www.xataka.com/basics/bots-telegram-que-como-funcionan-recomendados-para-empezar
+- Fernández, Y. (2020) *"Bots de Telegram: qué son, cómo funcionan y 17 recomendados para empezar"* (consulta: 14/12/2023) Disponible en: https://www.xataka.com/basics/bots-telegram-que-como-funcionan-recomendados-para-empezar
 - Tutorial MARKDOWN. (consulta: 13/12/2023) Disponible en: https://tutorialmarkdown.com
 - Adell, F. (2014) *"Remediación, multimedia e hibridación de los medios"* (consulta: 14/12/2023) Disponible en: http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/
 - Telegram. (consulta: 15/12/2023) Disponible en: https://telegram.org
 - Rocio GR. (2023) *"Cómo pueden ayudarte los bots de Telegram y cuáles son los mejores"* (consulta: 16/12/2023) Disponible en: https://www.adslzone.net/como-se-hace/telegram/bots-funcionamiento/
+- Tecnoguia (2023) "Todo sobre Obsidian: La herramienta definitiva para la gestión de notas" (consulta: 16/12/2023) Disponible en: https://tecnoguia.net/obsidian-review/#La_magia_de_la_sincronizacion_probablemente_lo_mejor_de_Obsidian
